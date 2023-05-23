@@ -1,0 +1,43 @@
+.iitgnLogo{
+    size: 5% ;
+    width: 15% ;
+
+}
+.top-heading{
+    padding-top: 2rem;
+}
+.far{
+    padding-top: 70%;
+
+}
+.fas{
+    padding-top: 70%;
+
+}
+.form-label{
+    padding-right: 2% ;
+    font-size: medium;
+}
+a{
+    size: 40% ;
+    width: 40% ;
+    
+}
+.all_councils{
+    text-align: center;
+    padding-top: 2rem;
+}
+.council{
+    margin-top: 1rem ;
+    margin: 1%;
+}
+body{
+    background-color: #DAF5FF;
+}
+
+.iitgnLogo{
+    position: relative;
+    left: 40% ;
+}
+
+
